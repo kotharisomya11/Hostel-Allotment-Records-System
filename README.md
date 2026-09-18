@@ -112,7 +112,7 @@ It is related to entity set student via relation update.
 4.ZIP Code</li></ol>
  
 <h2>Stakeholders who have to access  the Database and their needs:-</h2>
-As the name specifies “HOSTEL MANAGEMENT SYSTEM” is a database developed for managing various activities in the hostel. The stakeholders for this database are :-
+As the name specifies “Hostel-Allotment-Records” is a database developed for managing various activities in the hostel. The stakeholders for this database are :-
 <ol><li>Warden of hostels:To keep the record of personal details of each employee and students of the hostel.</li>
 <li>Supervisiors of hostels : Same as Warden’s role.   </li>      
 <li>Security Officer : To keep the record of the visitors visiting the hostel, arrival and departure time of a student from the hostel.</li>
